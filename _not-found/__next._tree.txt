@@ -1,2 +1,2 @@
-:HL["/spain-trip-2026/_next/static/chunks/045no3krocfea.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"K70zt2K8g1tIg-okT1MHx"}
+:HL["/spain-trip-2026/_next/static/chunks/0qizwx83q.5_-.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"-YSiNgjfsHxaBlxVkE_Oz"}
