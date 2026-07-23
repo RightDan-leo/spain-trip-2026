@@ -1,5 +1,5 @@
-:HL["/spain-trip-2026/_next/static/chunks/0qizwx83q.5_-.css","style"]
+:HL["/spain-trip-2026/_next/static/chunks/16s0b_akx~6c5.css","style"]
 :HL["/spain-trip-2026/art/las-meninas.jpg","image"]
 :HL["/spain-trip-2026/art/clothed-maja.jpg","image"]
 :HL["/spain-trip-2026/art/great-wave.jpg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"-YSiNgjfsHxaBlxVkE_Oz"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"jhwZOvZveDPFoGkS_6uAi"}
